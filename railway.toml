@@ -1,0 +1,2 @@
+[phases.setup]
+nixPkgs = ["php81", "php81Extensions.curl", "php81Extensions.mbstring", "php81Extensions.pdo_mysql", "nodejs_18", "npm"]
